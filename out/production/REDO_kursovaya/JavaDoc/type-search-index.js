@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"DisplayOutput"},{"p":"<Unnamed>","l":"ExtensionsActions"},{"p":"<Unnamed>","l":"FileTypeIdentifier"},{"p":"<Unnamed>","l":"MagicNumbers"}];updateSearchResults();
