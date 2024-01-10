@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="REDO_kursovaya:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/REDO_kursovaya_jar</output-path>
+    <root id="archive" name="REDO_kursovaya.jar">
+      <element id="module-output" name="REDO_kursovaya" />
+    </root>
+  </artifact>
+</component>
