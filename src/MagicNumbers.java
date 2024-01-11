@@ -1,7 +1,11 @@
 import java.util.HashMap;
 
+
 public class MagicNumbers {
 
+    /**
+     * Коллекция с парами ключ-значение
+     */
     public static HashMap<String, String> fileTypes = new HashMap<>();
 
     static {
